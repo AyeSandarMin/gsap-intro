@@ -62,7 +62,7 @@ const Contact = () => {
         <div>
           <h3>Contact Us</h3>
           <p>+1 234 567 890</p>
-          <p>hello@asmcocktails.com</p>
+          <p>hello@twistandtonic.com</p>
         </div>
         <div>
           <h3>Opening Everyday</h3>

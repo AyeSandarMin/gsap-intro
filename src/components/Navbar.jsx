@@ -47,7 +47,7 @@ const Navbar = () => {
             alt="logo"
             className="w-10 h-10 object-contain"
           />
-          <p>Velevt Pour</p>
+          <p>Twist and Tonic</p>
         </a>
 
         {!isMobile && (
