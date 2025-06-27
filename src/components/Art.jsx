@@ -20,7 +20,7 @@ const Art = () => {
             }
         })
         maskTimeline
-            .to("will-fade", {
+            .to(".will-fade", {
                 opacity: 0,
                 stagger: 0.2,
                 ease: "power1.inOut"
@@ -32,7 +32,7 @@ const Art = () => {
                 duration: 1,
                 ease: "power1.inOut",
             })
-            .to(".masked-content", {
+            .to("#masked-content", {
                 opacity: 0,
                 duration: 1,
                 ease: "power1.inOut",
